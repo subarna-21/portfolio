@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" width="220" height="48">
+	<title>New Project</title>
+	<defs>
+		<image  width="4" height="4" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAAAXNSR0IB2cksfwAAABhQTFRF/1oA/1oA/1oA/1oA/1oA/1oA/1oA/1oAKw+yZQAAAAh0Uk5TV9jXVtr/1lXzUllSAAAAEUlEQVR4nGNgVGZwDQEho3QACV0B8E1rc/gAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 38px;fill: #ffffff;font-weight: 700;font-family: "RobotoCondensed-Bold", "Roboto Condensed" } 
+		.t1 { font-size: 22px;fill: #dcd9d9;font-weight: 400;font-family: "RobotoCondensed-Regular", "Roboto Condensed" } 
+	</style>
+	<text id="rojan" style="transform: matrix(1,0,-0.019,1.212,8.69,35.896)" >
+		<tspan x="0" y="0" class="t0">r</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">j</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+	<text id="magar" style="transform: matrix(1,0,-0.019,1.212,146.69,35.896)" >
+		<tspan x="0" y="0" class="t1">m</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">g</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">r
+</tspan>
+	</text>
+	<text id="rana" style="transform: matrix(1,0,-0.019,1.212,98.69,35.896)" >
+		<tspan x="0" y="0" class="t1">rana</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+	<use id="Layer 1" href="#img1" x="203" y="32"/>
+</svg>
