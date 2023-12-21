@@ -15,19 +15,18 @@ import Head from "next/head";
 
 const Layout = ({ children }) => {
   return (
-  <>
-    <Head>
-      <title>Subarna Raj Upreti</title>
-      <desc>Enthusiastic It</desc>
-    </Head>
-    <div className={`page bg-site text-white bg-cover bg-no-repeat ${sora.variable} font-sora relative`}>
-      <div>
-        <TopLeftImg />
-        <Nav />
-        <Header />
-        {children}
+    <>
+      <div
+        className={`page bg-site text-white bg-cover bg-no-repeat ${sora.variable} font-sora relative`}
+      >
+        <div>
+          <TopLeftImg />
+          <Nav />
+          <Header />
+          {children}
+        </div>
       </div>
-    </div></>
+    </>
   );
 };
 
